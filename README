@@ -1,0 +1,1 @@
+With a mini bread board, wire the GY-521 module with the ultrasonic sensor. Calibrate for yaw. Attach to servo head. Upload arduino script and press button to begin cycle. Open python script if you want to see plot.
