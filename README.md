@@ -23,4 +23,3 @@ Uses a **GY-521 (MPU6050)** + **HC-SR04 ultrasonic sensor** on a **servo** to sc
 4. Press button to scan.
 5. `pip install pyserial numpy matplotlib`
 6. Edit `plotter.py` for your port/baud, then run:
-
